@@ -24,7 +24,7 @@ export const siteConfig: SiteConfig = {
   social: {
     github: "https://github.com/vanlinh1602", // leave empty if you don't want to show the github
     linkedin: "https://www.linkedin.com/in/linhnv1622/", // leave empty if you don't want to show the linkedin
-    email: "linhnv1622@gmail.com", // leave empty if you don't want to show the email
+    email: "nvlinh1622@gmail.com", // leave empty if you don't want to show the email
     rss: false, // set this to false if you don't want to provide an rss feed
   },
   homepage: {
